@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
+﻿using System;
 using F1Races.Races;
 
 Console.WriteLine("Hello, World!");
